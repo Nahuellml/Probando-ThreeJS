@@ -1,4 +1,4 @@
-import camera from './camera.js';
+import camera from './Camera.js';
 
 class Resize {
   constructor() {
